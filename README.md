@@ -43,5 +43,5 @@ I'm Sam Fenilto a Full Stack Web Developer.
 
 ## Buisness
 
--   <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/50/000000/external-quality-business-kiranshastry-gradient-kiranshastry-2.png" width="25px" align="center" alt="hi"/> [My Resume/CV](https://github.com/Sam-Fenilto/Sam-Fenilto)
+-   <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/50/000000/external-quality-business-kiranshastry-gradient-kiranshastry-2.png" width="25px" align="center" alt="hi"/> [My Resume/CV](https://github.com/Sam-Fenilto/Sam-Fenilto/blob/4fa636b674ee1ce31945f383c64f4cbc9d7024ed/resume/Sam%20fenilto%20v1.0.3.pdf)
 -   &nbsp;<img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-email-business-kiranshastry-gradient-kiranshastry.png" width="20px" align="center" alt="hi"/> samfenilto@gmail.com
