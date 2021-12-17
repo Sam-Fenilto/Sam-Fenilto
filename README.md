@@ -4,7 +4,7 @@ I'm Sam Fenilto a Full Stack Web Developer.
 
 ✉️ Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sam_Fenilto-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/yasin-samar11011) [![Mail Badge](https://img.shields.io/badge/-@Sam_Fenilto-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/sam_fenilto/) [![Mail Badge](https://img.shields.io/badge/-Sam_Fenilto-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:samfenilto@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Sam_Fenilto-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-samar11011/) [![Mail Badge](https://img.shields.io/badge/-@Sam_Fenilto-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/sam_fenilto/) [![Mail Badge](https://img.shields.io/badge/-Sam_Fenilto-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:samfenilto@gmail.com)
 
 -   👨🏻‍🎓 I’m currently studying at @Panimalar Institute of Technology.
 -   Qualification: B.Tech - Information technology.
@@ -40,3 +40,8 @@ I'm Sam Fenilto a Full Stack Web Developer.
     ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 -   ### IDE
     ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white) ![Vs Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+## Buisness
+
+-   <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/50/000000/external-quality-business-kiranshastry-gradient-kiranshastry-2.png" width="25px" align="center" alt="hi"/> [My Resume/CV](https://github.com/Sam-Fenilto/Sam-Fenilto)
+-   &nbsp;<img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-email-business-kiranshastry-gradient-kiranshastry.png" width="20px" align="center" alt="hi"/> samfenilto@gmail.com
