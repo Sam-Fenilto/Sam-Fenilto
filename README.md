@@ -52,4 +52,4 @@ I'm Sam Fenilto a Full Stack Web Developer.
 
 ## Stats
 
-![Sam Fenilto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam-Fenilto&theme=algolia&show_icons=true)
+![Sam Fenilto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam-Fenilto&theme=algolia&show_icons=true&count_private=true&hide=contribs,prs)
