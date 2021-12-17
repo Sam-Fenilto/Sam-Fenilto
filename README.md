@@ -4,7 +4,7 @@ I'm Sam Fenilto a Full Stack Web Developer.
 
 ✉️ Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sam_Fenilto-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-samar11011/) [![Mail Badge](https://img.shields.io/badge/-@Sam_Fenilto-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/sam_fenilto/) [![Mail Badge](https://img.shields.io/badge/-Sam_Fenilto-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:samfenilto@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Sam_Fenilto-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-samar11011/) [![Mail Badge](https://img.shields.io/badge/-@Sam_Fenilto-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/sam_fenilto/) [![Mail Badge](https://img.shields.io/badge/-Sam_Fenilto-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:samfenilto@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@Sam_Fenilto-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Sam_fenilto)
 
 -   👨🏻‍🎓 I’m currently studying at @Panimalar Institute of Technology.
 -   Qualification: B.Tech - Information technology.
@@ -50,6 +50,32 @@ I'm Sam Fenilto a Full Stack Web Developer.
 
 &nbsp; &nbsp; &nbsp; &nbsp;![visitors](https://visitor-badge.glitch.me/badge?page_id=Sam-Fenilto)
 
+<br>
+
+<details>
+<summary>
+More About Me
+</summary>
+
+<br>
+
+```
+“The true beauty of music is that it connects people. It carries a message, and we, the musicians, are the messengers.” — Roy Ayers
+
+-   I'm one of the Messenger Who Carry Messages :)
+-   Love Making Music aka: bed room producer
+```
+
+<br>
+
 ## Stats
 
 ![Sam Fenilto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam-Fenilto&theme=algolia&show_icons=true&count_private=true&hide=contribs,prs)
+
+## Coding Stats
+
+![Coding Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Fenilto&theme=algolia&hide=contribs,prs)
+
+## readme stats
+
+![Readme Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sam-Fenilto&theme=algolia&hide=contribs,prs)
