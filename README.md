@@ -75,7 +75,3 @@ More About Me
 ## Coding Stats
 
 ![Coding Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Fenilto&theme=algolia&hide=contribs,prs)
-
-## readme stats
-
-![Readme Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sam-Fenilto&theme=algolia&hide=contribs,prs)
