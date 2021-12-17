@@ -59,12 +59,10 @@ More About Me
 
 <br>
 
-```
-“The true beauty of music is that it connects people. It carries a message, and we, the musicians, are the messengers.” — Roy Ayers
+#### “The true beauty of music is that it connects people. It carries a message, and we, the musicians, are the messengers.” — Roy Ayers
 
 -   I'm one of the Messenger Who Carry Messages :)
 -   Love Making Music aka: bed room producer
-```
 
 <br>
 
