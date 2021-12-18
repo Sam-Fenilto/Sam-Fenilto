@@ -1,6 +1,3 @@
-<p><img src="https://github.com/Sam-Fenilto/Sam-Fenilto/blob/d96b942174f670eabf5c493b11d8c4e4adc6eff3/asserts/bggif.gif" width="100%" height="200"/>
-</p>
-
 # Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, &nbsp; I'm </ Sam Fenilto > <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-developer-coding-kiranshastry-gradient-kiranshastry.png" width="90px" alt="profile" align="right"/>
 
 ### I'm Sam Fenilto a Full Stack Web Developer.
