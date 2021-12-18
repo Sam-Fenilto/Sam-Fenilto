@@ -1,6 +1,6 @@
 Attribution 4.0 International
 
-### All Rights reserved To Sam Fenilto J S.
+### Copyright (c) 2021 Sam Fenilto J S.
 <br>
 
 =======================================================================
