@@ -74,4 +74,4 @@ More About Me
 
 ## Stats
 
-![Sam Fenilto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam-Fenilto&theme=algolia&show_icons=true&count_private=true&hide=contribs,prs)![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Fenilto&theme=algolia&langs_count=8)
+![Sam Fenilto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam-Fenilto&theme=algolia&show_icons=true&count_private=true&hide=contribs,prs) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Fenilto&theme=algolia&langs_count=8)
