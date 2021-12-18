@@ -6,20 +6,20 @@ I'm Sam Fenilto a Full Stack Web Developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sam_Fenilto-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-samar11011/) [![Mail Badge](https://img.shields.io/badge/-@Sam_Fenilto-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/sam_fenilto/) [![Mail Badge](https://img.shields.io/badge/-Sam_Fenilto-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:samfenilto@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@Sam_Fenilto-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Sam_fenilto)
 
--   👨🏻‍🎓 I’m currently studying at @Panimalar Institute of Technology.
--   Qualification: B.Tech - Information technology.
+-   🏫 I’m currently studying at @Panimalar Institute of Technology.
+-   👨🏻‍🎓 Qualification: B.Tech - Information technology.
 -   💻 I’m looking for full stack job offers.
--   computer: Most used line of code `git push origin master`
+-   🤹🏻 Most used line of code `git push origin master`
 -   📫 How to reach me: samfenilto@gmail.com.
--   ⚡ Fun fact: I play games and make Music too often.
+-   ⚡ I play games and make Music Frequently.
 
 <br>
 
 ## Profession :
 
--   Code &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-code-coding-kiranshastry-gradient-kiranshastry-4.png" width="18px" align="center" alt="hi"/>
--   Test &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-view-coding-kiranshastry-gradient-kiranshastry.png"  width="20px" align="center" alt="hi"/>
--   Debug &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-malware-coding-kiranshastry-gradient-kiranshastry-1.png" width="20px" align="center" alt="hi"/>
+-   Code &nbsp; <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-code-coding-kiranshastry-gradient-kiranshastry-4.png" width="18px" align="center" alt="hi"/>
+-   Test &nbsp; <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-view-coding-kiranshastry-gradient-kiranshastry.png"  width="20px" align="center" alt="hi"/>
+-   Debug &nbsp; <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-malware-coding-kiranshastry-gradient-kiranshastry-1.png" width="20px" align="center" alt="hi"/>
 -   Maintain &nbsp; <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-gear-coding-kiranshastry-gradient-kiranshastry.png" width="20px" align="center" alt="hi"/>
 
 ## Passion :
