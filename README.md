@@ -26,6 +26,8 @@ I'm Sam Fenilto a Full Stack Web Developer.
 
 -   Music Producer &nbsp;<img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-controls-cinema-kiranshastry-gradient-kiranshastry.png" width="20px" align="center" alt="hi"/>
 
+<br>
+
 ## Top Technologies
 
 -   ### Languages
@@ -41,6 +43,8 @@ I'm Sam Fenilto a Full Stack Web Developer.
 -   ### IDE
     ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white) ![Vs Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
+<br>
+
 ## Buisness
 
 -   <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/50/000000/external-quality-business-kiranshastry-gradient-kiranshastry-2.png" width="25px" align="center" alt="hi"/> [My Resume/CV](https://github.com/Sam-Fenilto/Sam-Fenilto/blob/4fa636b674ee1ce31945f383c64f4cbc9d7024ed/resume/Sam%20fenilto%20v1.0.3.pdf)
@@ -49,8 +53,6 @@ I'm Sam Fenilto a Full Stack Web Developer.
 ## Profile visits
 
 &nbsp; &nbsp; &nbsp; &nbsp;![visitors](https://visitor-badge.glitch.me/badge?page_id=Sam-Fenilto)
-
-<br>
 
 <details>
 <summary>
