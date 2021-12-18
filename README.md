@@ -1,13 +1,10 @@
 # Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, &nbsp; I'm </ Sam Fenilto > <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-developer-coding-kiranshastry-gradient-kiranshastry.png" width="90px" alt="profile" align="right"/>
 
-
-
 ### I'm Sam Fenilto a Full Stack Web Developer.
 
 ✉️ Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sam_Fenilto-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-samar11011/) [![Mail Badge](https://img.shields.io/badge/-@Sam_Fenilto-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/sam_fenilto/) [![Mail Badge](https://img.shields.io/badge/-Sam_Fenilto-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:samfenilto@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@Sam_Fenilto-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Sam_fenilto)
-
 
 -   🏫 I’m currently studying at @Panimalar Institute of Technology.
 -   👨🏻‍🎓 Qualification: B.Tech - Information technology.
@@ -77,8 +74,4 @@ More About Me
 
 ## Stats
 
-![Sam Fenilto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam-Fenilto&theme=algolia&show_icons=true&count_private=true&hide=contribs,prs)
-
-## Coding Stats
-
-![Coding Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Fenilto&theme=algolia&hide=contribs,prs)
+![Sam Fenilto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam-Fenilto&theme=algolia&show_icons=true&count_private=true&hide=contribs,prs)![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Fenilto&theme=algolia&langs_count=8)
