@@ -1,4 +1,4 @@
-<p><img src="https://github.com/Sam-Fenilto/Sam-Fenilto/blob/9d327656e90b7aaaf0f2f03d4f531fd1fa9cd43f/asserts/bggif.gif" width="300" height="100"/>
+<p><img src="https://github.com/Sam-Fenilto/Sam-Fenilto/blob/9d327656e90b7aaaf0f2f03d4f531fd1fa9cd43f/asserts/bggif.gif" width="100%" height="100"/>
 </p>
 
 Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, &nbsp; I'm </ Sam Fenilto > <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-developer-coding-kiranshastry-gradient-kiranshastry.png" width="90px" alt="profile" align="right"/>
