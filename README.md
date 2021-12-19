@@ -1,5 +1,7 @@
 # Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, &nbsp; I'm </ Sam Fenilto > <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-developer-coding-kiranshastry-gradient-kiranshastry.png" width="90px" alt="profile" align="right"/>
 
+<p><img src="https://github.com/Sam-Fenilto/Sam-Fenilto/blob/223dcaf793e13bfad7edea9d987576038d6528b7/asserts/load.gif" height="100" width="100" align="center" /)</p>
+
 ### I'm Sam Fenilto a Full Stack Web Developer.
 
 ✉️ Reach me out!
