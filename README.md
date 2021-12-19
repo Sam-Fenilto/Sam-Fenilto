@@ -1,9 +1,12 @@
  <p align="center"><img src="https://github.com/Sam-Fenilto/Sam-Fenilto/blob/42d764e40b602874c51db52c5df3f4efd62fb0de/asserts/hi.gif" width="150px" alt="hi"></p>
 
+<p align="center">
+
 # </ Sam Fenilto > Here! <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-developer-coding-kiranshastry-gradient-kiranshastry.png" width="90px" alt="profile" align="right"/>
 
 ### I'm Sam Fenilto a Full Stack Web Developer &nbsp;<img src="https://github.com/Sam-Fenilto/Sam-Fenilto/blob/223dcaf793e13bfad7edea9d987576038d6528b7/asserts/load.gif" height="20" width="20" align="center" /> .
 
+</p>
 ✉️ Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sam_Fenilto-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-samar11011/) [![Mail Badge](https://img.shields.io/badge/-@Sam_Fenilto-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/sam_fenilto/) [![Mail Badge](https://img.shields.io/badge/-Sam_Fenilto-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:samfenilto@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@Sam_Fenilto-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Sam_fenilto)
