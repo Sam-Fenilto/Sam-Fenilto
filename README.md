@@ -1,4 +1,4 @@
- <p align="center"><img src="https://github.com/Sam-Fenilto/Sam-Fenilto/blob/42d764e40b602874c51db52c5df3f4efd62fb0de/asserts/hi.gif" width="200px" alt="hi"></p>
+ <p align="center"><img src="https://github.com/Sam-Fenilto/Sam-Fenilto/blob/42d764e40b602874c51db52c5df3f4efd62fb0de/asserts/hi.gif" width="150px" alt="hi"></p>
 
 # </ Sam Fenilto > Here! <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-developer-coding-kiranshastry-gradient-kiranshastry.png" width="90px" alt="profile" align="right"/>
 
