@@ -2,7 +2,7 @@
 
 <section align="center">
 
-# </ Sam Fenilto > Here! <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-developer-coding-kiranshastry-gradient-kiranshastry.png" width="90px" alt="profile" align="center"/>
+# </ Sam Fenilto > Here! <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-developer-coding-kiranshastry-gradient-kiranshastry.png" width="40px" alt="profile" align="center"/>
 
 ### I'm Sam Fenilto a Full Stack Web Developer &nbsp;<img src="https://github.com/Sam-Fenilto/Sam-Fenilto/blob/223dcaf793e13bfad7edea9d987576038d6528b7/asserts/load.gif" height="20" width="20" align="center" /> .
 
