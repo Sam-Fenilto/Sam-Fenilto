@@ -1,4 +1,4 @@
-# <img src="https://github.com/Sam-Fenilto/Sam-Fenilto/blob/42d764e40b602874c51db52c5df3f4efd62fb0de/asserts/hi.gif" width="28px" alt="hi">, &nbsp;</ Sam Fenilto > Here! <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-developer-coding-kiranshastry-gradient-kiranshastry.png" width="90px" alt="profile" align="right"/>
+# <img src="https://github.com/Sam-Fenilto/Sam-Fenilto/blob/42d764e40b602874c51db52c5df3f4efd62fb0de/asserts/hi.gif" width="50px" height="30" alt="hi">, &nbsp;</ Sam Fenilto > Here! <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-developer-coding-kiranshastry-gradient-kiranshastry.png" width="90px" alt="profile" align="right"/>
 
 ### I'm Sam Fenilto a Full Stack Web Developer &nbsp;<img src="https://github.com/Sam-Fenilto/Sam-Fenilto/blob/223dcaf793e13bfad7edea9d987576038d6528b7/asserts/load.gif" height="20" width="20" align="center" /> .
 
