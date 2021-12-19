@@ -6,6 +6,8 @@
 
 ### I'm Sam Fenilto a Full Stack Web Developer &nbsp;<img src="https://github.com/Sam-Fenilto/Sam-Fenilto/blob/223dcaf793e13bfad7edea9d987576038d6528b7/asserts/load.gif" height="20" width="20" align="center" /> .
 
+</section>
+
 ✉️ Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sam_Fenilto-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-samar11011/) [![Mail Badge](https://img.shields.io/badge/-@Sam_Fenilto-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/sam_fenilto/) [![Mail Badge](https://img.shields.io/badge/-Sam_Fenilto-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:samfenilto@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@Sam_Fenilto-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Sam_fenilto)
@@ -17,7 +19,6 @@
 -   📫 How to reach me: samfenilto@gmail.com.
 -   ⚡ I play games and make Music Frequently.
 
-</section>
 <br>
 
 ## Profession :
