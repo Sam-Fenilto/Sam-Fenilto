@@ -55,11 +55,11 @@
 
 ## My Projects
 
-### https://emitsmile.com/ : EmitSmile Dental and MaxiloFacial Clinic. `webApp using Python Flask`
+#### https://emitsmile.com/ : EmitSmile Dental and MaxiloFacial Clinic. `webApp using Python Flask`
 
-### https://marketplace.visualstudio.com/items?itemName=SamFenilto.bootshort : BootStrap code Snippets with easeOfUse and Published in Visual Studio market Place using Azure Devops. `Snippets using node.js Yo Code Generator`
+#### https://marketplace.visualstudio.com/items?itemName=SamFenilto.bootshort : BootStrap code Snippets with easeOfUse and Published in Visual Studio market Place using Azure Devops. `Snippets using node.js Yo Code Generator`
 
-### https://www.salvationmissionaryministries.in/ : Salvation Missionary Ministries. `Website using HTML, CSS, Javascript`
+#### https://www.salvationmissionaryministries.in/ : Salvation Missionary Ministries. `Website using HTML, CSS, Javascript`
 
     More Projects On the Way (●'◡'●)
 
