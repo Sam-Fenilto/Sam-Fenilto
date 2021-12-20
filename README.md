@@ -61,7 +61,11 @@
 
 -   https://www.salvationmissionaryministries.in/ ⬇️ <br> Salvation Missionary Ministries. `Website using HTML, CSS, Javascript`
 
+<section align="center">
+
 ### `More Projects On the Way (●'◡'●)`
+
+</section>
 
 ## Buisness
 
