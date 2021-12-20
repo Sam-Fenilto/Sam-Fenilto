@@ -55,7 +55,7 @@
 
 ## My Projects
 
--   https://emitsmile.com/ 🔻 <br> EmitSmile Dental and MaxiloFacial Clinic. `webApp using Python Flask`
+-   https://emitsmile.com/ <details>🔻 <br> EmitSmile Dental and MaxiloFacial Clinic. `webApp using Python Flask`
 
 -   https://marketplace.visualstudio.com/items?itemName=SamFenilto.bootshort 🔻 <br> BootStrap code Snippets with easeOfUse and Published in Visual Studio market Place using Azure Devops. `Snippets using node.js Yo Code Generator`
 
